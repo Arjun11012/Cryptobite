@@ -15,7 +15,7 @@ Cryptobite is a web application that displays the top 10 biggest cryptocurrencie
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Obomhese-Raphael/Cryptobite.git
+    git clone https://github.com/Arjun11012/Cryptobite
     ```
 2. Navigate to the project directory:
     ```sh
@@ -48,7 +48,7 @@ This project uses the [CoinGecko API](https://www.coingecko.com/en/api) to fetch
 
 ## Contact
 
-Raphael Obomhese - [3dev.arjun@gmail.com](mailto:3dev.arjun@gmail.com)
+Arjun - [3dev.arjun@gmail.com](mailto:3dev.arjun@gmail.com)
 
 ## Acknowledgments
 
